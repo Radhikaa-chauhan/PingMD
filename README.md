@@ -1,1 +1,1 @@
-"# PingMD" 
+# PingMD
