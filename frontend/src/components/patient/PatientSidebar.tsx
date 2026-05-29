@@ -68,14 +68,14 @@ export function PatientSidebar({ activeTab, onTabChange, patientName, riskLabel,
   return (
     <aside className="w-full md:w-64 shrink-0 bg-white border-r border-bgSoft flex flex-col md:h-screen sticky top-0 z-10">
 
-      {/* MediFlow AI Brand Logo */}
+      {/* PingMD Brand Logo */}
       <div className="px-6 py-5 border-b border-bgSoft">
         <div className="flex items-center gap-2.5">
           <div className="w-8 h-8 rounded-lg bg-[#1B4965] flex items-center justify-center shrink-0">
             <Activity size={16} color="white" />
           </div>
           <div>
-            <h1 className="font-bold text-[#0F172A] text-[16px] leading-tight">MediFlow AI</h1>
+            <h1 className="font-bold text-[#0F172A] text-[16px] leading-tight">PingMD</h1>
             <p className="text-[#64748B] text-[11px]">Patient Portal</p>
           </div>
         </div>

@@ -1,5 +1,5 @@
 /**
- * MediFlow AI — Centralized API Client
+ * PingMD — Centralized API Client
  *
  * All calls to the backend go through this file.
  * DO NOT put any database logic or server-side code in the frontend.

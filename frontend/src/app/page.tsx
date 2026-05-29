@@ -78,7 +78,7 @@ function HeroSection() {
             className="font-sans text-base lg:text-lg leading-relaxed max-w-lg mt-6
               text-primary/70 dark:text-white/70"
           >
-            MediFlow AI is the intelligence layer that triages patients in real
+            PingMD is the intelligence layer that triages patients in real
             time — reducing wait times, prioritizing emergencies, and empowering
             doctors with instant insights.
           </p>
@@ -129,7 +129,7 @@ function HeroSection() {
               <span className="w-3 h-3 rounded-full bg-yellow-400" />
               <span className="w-3 h-3 rounded-full bg-green-400" />
               <span className="ml-auto text-xs text-gray-400 dark:text-white/40 font-mono">
-                MediFlow AI · Live
+                PingMD · Live
               </span>
             </div>
 
@@ -142,7 +142,7 @@ function HeroSection() {
               {/* Chat header */}
               <div className="flex items-center gap-2">
                 <span className="font-display font-semibold text-primary dark:text-white flex-1">
-                  MediFlow AI Chat
+                  PingMD Chat
                 </span>
                 <span className="w-2 h-2 bg-success rounded-full animate-pulse" />
                 <span className="text-success text-xs font-medium">Live</span>
@@ -155,7 +155,7 @@ function HeroSection() {
                     bg-bgLight text-primary
                     dark:bg-white/10 dark:text-white"
                 >
-                  Hello! I'm MediFlow AI. What symptoms are you experiencing
+                  Hello! I'm PingMD. What symptoms are you experiencing
                   today?
                 </div>
                 <div
@@ -318,7 +318,7 @@ function HowItWorksSection() {
           From Symptom to Solution — In Minutes
         </h2>
         <p className="text-secondary dark:text-white/70 text-lg mt-3 max-w-2xl mx-auto">
-          MediFlow AI connects patients, triage AI, and doctors in one seamless
+          PingMD connects patients, triage AI, and doctors in one seamless
           real-time flow.
         </p>
       </div>
@@ -651,7 +651,7 @@ function Footer() {
         <div>
           <p className="font-display font-bold text-white text-lg flex items-center gap-2">
             <Activity className="w-5 h-5 text-accent" />
-            MediFlow AI
+            PingMD
           </p>
           <p className="text-white/40 text-xs mt-1">
             AI-Powered Triage for Modern Healthcare
@@ -670,7 +670,7 @@ function Footer() {
         </div>
       </div>
       <div className="border-t border-white/10 mt-6 pt-6 text-center text-white/30 text-xs max-w-7xl mx-auto">
-        © {new Date().getFullYear()} MediFlow AI. All rights reserved.
+        © {new Date().getFullYear()} PingMD. All rights reserved.
       </div>
     </footer>
   );

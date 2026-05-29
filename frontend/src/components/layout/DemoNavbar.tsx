@@ -46,7 +46,7 @@ export const DemoNavbar: React.FC<DemoNavbarProps> = ({
           <div className="flex items-center gap-2">
             <Activity className="text-accent" size={24} />
             <span className="font-display font-bold text-primary text-lg hidden sm:block">
-              MediFlow AI
+              PingMD
             </span>
             <span className="text-primary/30 mx-1 hidden sm:block">/</span>
             <span className="font-semibold text-primary text-sm sm:text-base truncate">

@@ -4,7 +4,7 @@ import { ThemeProvider } from "../components/ThemeProvider";
 import { Navbar } from "../components/Navbar";
 
 export const metadata: Metadata = {
-  title: "MediFlow AI | Intelligent Healthcare Triage",
+  title: "PingMD | Intelligent Healthcare Triage",
   description:
     "AI-powered medical triage and patient management system for faster, smarter healthcare outcomes.",
 };

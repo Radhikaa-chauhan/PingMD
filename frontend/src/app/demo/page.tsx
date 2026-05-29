@@ -36,7 +36,7 @@ export default function DemoRoleSelection() {
       <PageContainer maxWidth="lg" className="flex flex-col items-center py-16 animate-fadeUp">
         <div className="text-center">
           <p className="text-accent font-semibold text-xs tracking-widest uppercase">
-            MEDIFLOW AI DEMO
+            PINGMD DEMO
           </p>
           <h1 className="font-display text-4xl text-primary font-bold mt-2">
             How will you use MediFlow today?
