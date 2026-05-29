@@ -1,7 +1,7 @@
 {
-  "name": "mediflow-server",
+  "name": "pingmd-server",
   "version": "1.0.0",
-  "description": "MediFlow AI — Healthcare Backend API",
+  "description": "PingMD — Healthcare Backend API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
