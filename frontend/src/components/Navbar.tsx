@@ -33,7 +33,7 @@ export function Navbar() {
         <a href="#hero" className="flex items-center gap-2 shrink-0">
           <Activity className="w-5 h-5 text-accent" />
           <span className="font-display font-bold text-xl text-primary dark:text-white">
-           PingMD
+            MediFlow AI
           </span>
         </a>
 

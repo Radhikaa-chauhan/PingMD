@@ -28,7 +28,7 @@ export const Sidebar = () => {
       {/* Logo */}
       <div className="mb-8 px-3 pt-2">
         <span className="font-display text-sm font-semibold text-white/80 tracking-wide uppercase">
-         Ping MD
+          MediFlow AI
         </span>
       </div>
 
