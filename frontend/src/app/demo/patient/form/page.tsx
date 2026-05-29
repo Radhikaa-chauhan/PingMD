@@ -390,7 +390,7 @@ export default function PatientFormPage() {
           <div className="bg-primary/5 border border-primary/10 rounded-xl p-4 flex gap-3 items-start mb-6">
             <Bot className="text-accent shrink-0 mt-0.5" size={18} />
             <p className="text-xs text-primary/70 leading-relaxed">
-              MediFlow AI will analyze your input using clinical triage protocols. Results are indicative only — always consult a qualified doctor.
+              PingMD will analyze your input using clinical triage protocols. Results are indicative only — always consult a qualified doctor.
             </p>
           </div>
 
@@ -400,7 +400,7 @@ export default function PatientFormPage() {
               <div className="relative z-10">
                 <div className="flex items-center justify-center gap-3 mb-4">
                   <span className="animate-spin border-2 border-white/30 border-t-white rounded-full w-5 h-5" />
-                  <p className="text-white font-semibold text-sm">MediFlow AI is analyzing your symptoms...</p>
+                  <p className="text-white font-semibold text-sm">PingMD is analyzing your symptoms...</p>
                 </div>
                 <div className="w-full h-1.5 bg-white/10 rounded-full overflow-hidden relative">
                   <div className="absolute top-0 left-0 h-full w-full bg-gradient-to-r from-accent via-white/80 to-accent animate-shimmer" />

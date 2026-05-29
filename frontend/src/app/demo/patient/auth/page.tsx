@@ -119,7 +119,7 @@ export default function PatientAuthPage() {
           <div className="w-16 h-16 bg-gradient-to-br from-primary to-accent rounded-2xl flex items-center justify-center mx-auto shadow-md">
             <UserCircle className="text-white" size={32} />
           </div>
-          <h2 className="font-display text-2xl text-primary font-bold text-center mt-4">MediFlow AI</h2>
+          <h2 className="font-display text-2xl text-primary font-bold text-center mt-4">PingMD</h2>
           <p className="text-secondary text-sm text-center mt-1 px-4">Your personal AI health companion</p>
 
           {/* Tab toggle */}
