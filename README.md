@@ -1,1 +1,1 @@
-# MediFlow Ai
+# PingMD
