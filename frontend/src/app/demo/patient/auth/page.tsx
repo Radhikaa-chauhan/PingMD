@@ -249,7 +249,7 @@ export default function PatientAuthPage() {
           <div className="mt-4 bg-bgSoft rounded-xl p-3 flex gap-2 items-start">
             <ShieldCheck className="text-success shrink-0 mt-0.5" size={16} />
             <p className="text-xs text-primary/60 leading-relaxed">
-              Your data is securely handled by the MediFlow backend server.
+              Your data is securely handled by the PingMD backend server.
             </p>
           </div>
 

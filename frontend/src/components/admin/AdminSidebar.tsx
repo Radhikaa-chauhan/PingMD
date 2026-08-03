@@ -41,7 +41,7 @@ export default function AdminSidebar({ activePage, onNavigate }: { activePage: s
           <ShieldCheck size={22} color="white" />
         </div>
         <div className="sidebar-logo-text">
-          <h2>MediFlow</h2>
+          <h2>PingMD</h2>
           <span>Admin Portal</span>
         </div>
       </div>

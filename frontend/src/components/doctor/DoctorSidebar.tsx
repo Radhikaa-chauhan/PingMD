@@ -42,7 +42,7 @@ export default function Sidebar({ activePage, onNavigate }: { activePage: string
           <Activity size={22} color="white" />
         </div>
         <div className="sidebar-logo-text">
-          <h2>MediFlow</h2>
+          <h2>PingMD</h2>
           <span>Healthcare Portal</span>
         </div>
       </div>

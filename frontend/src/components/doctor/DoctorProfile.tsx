@@ -82,7 +82,7 @@ export default function DoctorProfile() {
                     <Mail size={14} /> {doctorUser.email}
                   </span>
                   <span style={{ display: 'flex', alignItems: 'center', gap: 6, fontSize: '0.85rem', color: 'var(--text-muted)' }}>
-                    <Phone size={14} /> +91 98765 43210
+                    <Phone size={14} /> +91 98765 xxxxx
                   </span>
                 </div>
               </div>
@@ -148,7 +148,7 @@ export default function DoctorProfile() {
                   </div>
                   <div>
                     <div style={{ fontSize: '0.9rem', fontWeight: 600, color: 'var(--text-primary)' }}>Consultation Chamber</div>
-                    <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Room 402, Block B, MediFlow General Hospital</div>
+                    <div style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>Room 402, Block B, PingMD General Hospital</div>
                   </div>
                 </li>
               </ul>

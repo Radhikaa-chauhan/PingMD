@@ -7,7 +7,7 @@ const doctors = [
     {
         name: "Dr. Anil Mehta",
         specialization: "Cardiologist",
-        email: "anil.mehta@mediflow.ai",
+        email: "anil.mehta@pingmd.ai",
         phone: "9876543201",
         qualification: "MBBS, DM Cardiology",
         experience: 15,
@@ -21,7 +21,7 @@ const doctors = [
     {
         name: "Dr. Vinod Kumar",
         specialization: "Neurologist",
-        email: "vinod.kumar@mediflow.ai",
+        email: "vinod.kumar@pingmd.ai",
         phone: "9876543202",
         qualification: "MBBS, DM Neurology",
         experience: 12,
@@ -35,7 +35,7 @@ const doctors = [
     {
         name: "Dr. Sarah Khan",
         specialization: "General Physician",
-        email: "sarah.khan@mediflow.ai",
+        email: "sarah.khan@pingmd.ai",
         phone: "9876543203",
         qualification: "MBBS, MD",
         experience: 8,
@@ -49,7 +49,7 @@ const doctors = [
     {
         name: "Dr. Priya Singh",
         specialization: "Dermatologist",
-        email: "priya.singh@mediflow.ai",
+        email: "priya.singh@pingmd.ai",
         phone: "9876543204",
         qualification: "MBBS, MD Dermatology",
         experience: 7,
@@ -63,7 +63,7 @@ const doctors = [
     {
         name: "Dr. Ramesh Gupta",
         specialization: "Pulmonologist",
-        email: "ramesh.gupta@mediflow.ai",
+        email: "ramesh.gupta@pingmd.ai",
         phone: "9876543205",
         qualification: "MBBS, MD Pulmonology",
         experience: 11,
@@ -77,7 +77,7 @@ const doctors = [
     {
         name: "Dr. Suresh Patel",
         specialization: "Orthopedic",
-        email: "suresh.patel@mediflow.ai",
+        email: "suresh.patel@pingmd.ai",
         phone: "9876543206",
         qualification: "MBBS, MS Orthopedics",
         experience: 13,
@@ -91,7 +91,7 @@ const doctors = [
     {
         name: "Dr. Meera Joshi",
         specialization: "Gynecologist",
-        email: "meera.joshi@mediflow.ai",
+        email: "meera.joshi@pingmd.ai",
         phone: "9876543207",
         qualification: "MBBS, MD Gynecology",
         experience: 10,
@@ -105,7 +105,7 @@ const doctors = [
     {
         name: "Dr. Rajiv Sharma",
         specialization: "Pediatrician",
-        email: "rajiv.sharma@mediflow.ai",
+        email: "rajiv.sharma@pingm.ai",
         phone: "9876543208",
         qualification: "MBBS, MD Pediatrics",
         experience: 9,
@@ -119,7 +119,7 @@ const doctors = [
     {
         name: "Dr. Anjali Verma",
         specialization: "Psychiatrist",
-        email: "anjali.verma@mediflow.ai",
+        email: "anjali.verma@pingmd.ai",
         phone: "9876543209",
         qualification: "MBBS, MD Psychiatry",
         experience: 6,
@@ -133,7 +133,7 @@ const doctors = [
     {
         name: "Dr. Kiran Reddy",
         specialization: "Ophthalmologist",
-        email: "kiran.reddy@mediflow.ai",
+        email: "kiran.reddy@pingmd.ai",
         phone: "9876543210",
         qualification: "MBBS, MS Ophthalmology",
         experience: 14,
@@ -147,7 +147,7 @@ const doctors = [
     {
         name: "Dr. Mohan Singh",
         specialization: "Neurologist",
-        email: "mohan.singh@mediflow.ai",
+        email: "mohan.singh@pingmd.ai",
         phone: "9856452379",
         qualification: "MBBS",
         experience: 5,
@@ -161,7 +161,7 @@ const doctors = [
     {
         name: "Dr. Sunita Rao",
         specialization: "Endocrinologist",
-        email: "sunita.rao@mediflow.ai",
+        email: "sunita.rao@pingmd.ai",
         phone: "9876543211",
         qualification: "MBBS, DM Endocrinology",
         experience: 10,
@@ -175,7 +175,7 @@ const doctors = [
     {
         name: "Dr. Amit Chauhan",
         specialization: "Urologist",
-        email: "amit.chauhan@mediflow.ai",
+        email: "amit.chauhan@pingmd.ai",
         phone: "9876543212",
         qualification: "MBBS, MS Urology",
         experience: 11,
@@ -189,7 +189,7 @@ const doctors = [
     {
         name: "Dr. Pooja Nair",
         specialization: "Oncologist",
-        email: "pooja.nair@mediflow.ai",
+        email: "pooja.nair@pingmd.ai",
         phone: "9876543213",
         qualification: "MBBS, DM Oncology",
         experience: 13,
@@ -203,7 +203,7 @@ const doctors = [
     {
         name: "Dr. Vikram Malhotra",
         specialization: "Gastroenterologist",
-        email: "vikram.malhotra@mediflow.ai",
+        email: "vikram.malhotra@pingmd.ai",
         phone: "9876543214",
         qualification: "MBBS, DM Gastroenterology",
         experience: 9,
@@ -215,9 +215,9 @@ const doctors = [
         totalPatients: 85,
     },
     {
-        name: "Dr. Neha Kapoor",
+        name: "Dr. Radhika Kapoor",
         specialization: "Rheumatologist",
-        email: "neha.kapoor@mediflow.ai",
+        email: "radhika.kapoor@pingmd.ai",
         phone: "9876543215",
         qualification: "MBBS, MD Rheumatology",
         experience: 8,
@@ -231,7 +231,7 @@ const doctors = [
     {
         name: "Dr. Sanjay Dubey",
         specialization: "Nephrologist",
-        email: "sanjay.dubey@mediflow.ai",
+        email: "sanjay.dubey@pingmd.ai",
         phone: "9876543216",
         qualification: "MBBS, DM Nephrology",
         experience: 12,
@@ -245,7 +245,7 @@ const doctors = [
     {
         name: "Dr. Deepa Menon",
         specialization: "Cardiologist",
-        email: "deepa.menon@mediflow.ai",
+        email: "deepa.menon@pingmd.ai",
         phone: "9876543217",
         qualification: "MBBS, DM Cardiology",
         experience: 16,
@@ -259,7 +259,7 @@ const doctors = [
     {
         name: "Dr. Rohit Saxena",
         specialization: "General Physician",
-        email: "rohit.saxena@mediflow.ai",
+        email: "rohit.saxena@pingmd.ai",
         phone: "9876543218",
         qualification: "MBBS, MD",
         experience: 6,
@@ -273,7 +273,7 @@ const doctors = [
     {
         name: "Dr. Kavita Pillai",
         specialization: "Dermatologist",
-        email: "kavita.pillai@mediflow.ai",
+        email: "kavita.pillai@pingmd.ai",
         phone: "9876543219",
         qualification: "MBBS, MD Dermatology",
         experience: 9,

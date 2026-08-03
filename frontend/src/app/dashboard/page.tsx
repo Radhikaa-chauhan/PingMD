@@ -99,7 +99,7 @@ export default function DashboardPage() {
         {/* Header */}
         <header className="mb-8">
           <h1 className="font-display text-2xl font-bold text-primary">
-            MediFlow Dashboard 👋
+            PingMD Dashboard 👋
           </h1>
           <p className="text-secondary text-sm mt-1">
             Live overview — {new Date().toDateString()}

@@ -218,7 +218,7 @@ export default function Dashboard() {
       {/* 1 ── Welcome Banner */}
       <div className="welcome-banner animate-in">
         <div style={{ position: 'relative', zIndex: 1 }}>
-          <div className="wb-title">Welcome to MediFlow Dashboard 👋</div>
+          <div className="wb-title">Welcome to PingMD Dashboard 👋</div>
           <div className="wb-sub">Here&apos;s your clinical overview for today · {new Date().toDateString()}</div>
         </div>
         <div className="wb-stats">

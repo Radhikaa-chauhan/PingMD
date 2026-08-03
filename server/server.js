@@ -53,7 +53,7 @@ app.use('/api/health-history', healthHistoryRoutes);
 app.get('/api/health', (req, res) => {
   res.json({
     success: true,
-    message: 'MediFlow API is running 🚀',
+    message: 'PingMD API is running 🚀',
     environment: process.env.NODE_ENV,
     timestamp: new Date().toISOString(),
   });
@@ -73,7 +73,7 @@ app.use(errorHandler);
 // ── Start Server ───────────────────────────────────
 const PORT = process.env.PORT || 5000;
 const server = app.listen(PORT, () => {
-  console.log(`\n🚀 MediFlow Server running on http://localhost:${PORT}`);
+  console.log(`\n🚀 PingMD Server running on http://localhost:${PORT}`);
   console.log(`   Environment: ${process.env.NODE_ENV}`);
   console.log(`   API Docs:    http://localhost:${PORT}/api/health\n`);
 });
