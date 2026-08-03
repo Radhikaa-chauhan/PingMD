@@ -51,7 +51,7 @@ export default function HealthChat() {
     setTyping(true);
     const t = setTimeout(() => {
       setTyping(false);
-      pushAI(`Hi ${userName}! 👋 I'm your MediFlow Clinical Assistant. Please describe your symptoms, or upload a photo if you have a visible issue (e.g., a rash or swelling).`);
+      pushAI(`Hi ${userName}! 👋 I'm your PingMD Clinical Assistant. Please describe your symptoms, or upload a photo if you have a visible issue (e.g., a rash or swelling).`);
     }, 800);
     return () => clearTimeout(t);
   }, [userName]);
@@ -455,7 +455,7 @@ export default function HealthChat() {
       setTyping(true);
       setTimeout(() => {
         setTyping(false);
-        pushAI(`Hi ${userName}! 👋 I'm your MediFlow Clinical Assistant. Tell me — what symptoms are you experiencing today?`);
+        pushAI(`Hi ${userName}! 👋 I'm your PingMD Clinical Assistant. Tell me — what symptoms are you experiencing today?`);
       }, 800);
     }, 100);
   };
@@ -481,7 +481,7 @@ export default function HealthChat() {
           <Bot size={22} className="text-white" />
         </div>
         <div>
-          <h3 className="font-semibold text-[#111B21] text-[16px] leading-tight">MediFlow Triage AI</h3>
+          <h3 className="font-semibold text-[#111B21] text-[16px] leading-tight">PingMD Triage AI</h3>
           <p className="text-[#667781] text-[13px]">online</p>
         </div>
       </div>

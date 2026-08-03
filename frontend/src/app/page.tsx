@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import React, { useState, useEffect } from "react";
 import {
@@ -563,7 +563,7 @@ function TestimonialsSection() {
   const testimonials = [
     {
       quote:
-        "MediFlow cut our average triage time from 12 minutes to under 90 seconds. Emergency response has never been faster.",
+        "PingMD cut our average triage time from 12 minutes to under 90 seconds. Emergency response has never been faster.",
       name: "Dr. Priya Sharma",
       role: "Chief of Emergency Medicine, Apollo Delhi",
       initials: "PS",

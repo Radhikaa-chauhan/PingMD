@@ -107,8 +107,8 @@ export default function DoctorAuthPage() {
           </h2>
           <p className="text-secondary text-sm text-center mt-1 leading-relaxed px-4">
             {mode === "login"
-              ? "Enter your credentials to access the MediFlow dashboard."
-              : "Register your professional profile to join MediFlow network."}
+              ? "Enter your credentials to access the PingMD dashboard."
+              : "Register your professional profile to join PingMD network."}
           </p>
 
           <div className="flex bg-bgSoft p-1 rounded-xl mt-6 relative z-10 w-full mb-6 max-w-sm mx-auto">
@@ -218,7 +218,7 @@ export default function DoctorAuthPage() {
             <InputField
               label="Password"
               type="password"
-              placeholder="••••••••"
+              placeholder="Enter your password"
               value={password}
               onChange={(e) => { setPassword(e.target.value); setErrors({ ...errors, password: "" }); }}
               error={errors.password}

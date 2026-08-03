@@ -369,7 +369,7 @@ export default function PatientAppointmentsPage() {
                     const docFee = docObj?.consultationFee ? `₹${docObj.consultationFee}` : apt.fee || "₹500";
                     const docRating = docObj?.rating || "4.5";
                     const docExp = docObj?.experience ? `${docObj.experience} years` : "10+ years";
-                    const docLocation = "MediFlow Multi-Speciality Clinic";
+                    const docLocation = "PingMDMulti-Speciality Clinic";
 
                     return (
                       <div key={apt._id} className="bg-white border border-[#E2E8F0] rounded-2xl overflow-hidden shadow-sm hover:shadow-md transition-all flex flex-col">

@@ -13,7 +13,7 @@
     "express",
     "mongodb"
   ],
-  "author": "MediFlow Team",
+  "author": "PingMD Team",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
